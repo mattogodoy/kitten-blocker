@@ -1,3 +1,4 @@
+// ===== FOR FUTURE FEATURES =====
 function Randomize(images) {
   return Math.floor(Math.random() * images.length)
 }
@@ -13,6 +14,7 @@ function imageRatio(image) {
     return "horizontal";
   }
 }
+// ===============================
 
 var matchString = function(string) {
   if (!string) {
@@ -40,8 +42,6 @@ var findCats = function(image) {
     console.log("####### Fucking cats everywhere!!");
     image.src = chrome.extension.getURL('/img/rick-astley.jpg');
   }
-
-// console.log(chrome.extension.getURL('/img/rick-astley.jpg'));
 };
 
 (function (document) {
