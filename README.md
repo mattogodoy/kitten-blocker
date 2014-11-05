@@ -14,7 +14,7 @@ v0.2
 - Counter badge for replaced kitties.
 - Runs in background. Now you don't have to click the icon to hide the cats.
 - Detects changes in the page and blocks any new kitties.
-- Keeps the original picture sizes.
+- Keeps the original picture size.
 
 Download and install:
 https://chrome.google.com/webstore/detail/kitten-blocker/bhlfekkbgcbmlnfclgklmbdmodbhbdla
